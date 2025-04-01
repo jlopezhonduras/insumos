@@ -1,7 +1,7 @@
 [
   {
     "fecha": "2025-04-01",  
-    "valor": 10,
+    "valor": "10%",
     "fuente": "Censo de Población y Vivienda",
     "lugar": "País",
     "lugardet": "Honduras",
