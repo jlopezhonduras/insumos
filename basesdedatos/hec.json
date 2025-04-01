@@ -5,47 +5,8 @@
     "fuente": "Censo de Población y Vivienda",
     "lugar": "País",
     "lugardet": "Honduras",
-    "periodo": 2023
-  },
-  {
-    "fecha": "2025-02-07",  
-    "valor": 25,
-    "fuente": "Censo de Población y Vivienda",
-    "lugar": "Departamento",
-    "lugardet": "Cortés",
-    "periodo": 2023
-  },
-  {
-    "fecha": "2025-02-12",  
-    "valor": 98,
-    "fuente": "Proyecciones de Población",
-    "lugar": "Departamento",
-    "lugardet": "Cortés",
-    "periodo": 2023
-  },
-  {
-    "fecha": "2025-02-13",  
-    "valor": 105,
-    "fuente": "Encuesta Permanente de Hogares de Propositos Multiples",
-    "lugar": "Municipio",
-    "lugardet": "Distrito Central",
-    "periodo": 2023
-  },
-  {
-    "fecha": "2025-02-14",  
-    "valor": 75,
-    "fuente": "Encuesta Permanente de Hogares de Propositos Multiples",
-    "lugar": "Municipio",
-    "lugardet": "Distrito Central",
-    "periodo": 2025
-  },
-  {
-    "fecha": "2025-02-15",  
-    "valor": 205,
-    "fuente": "Encuesta Permanente de Hogares de Propositos Multiples",
-    "lugar": "Municipio",
-    "lugardet": "Distrito Central",
-    "periodo": 2024
+    "periodo": 2023,
+		"complemento": "Este es el complemento"
   }
 ]
 
