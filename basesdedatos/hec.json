@@ -6,7 +6,8 @@
     "lugar": "País",
     "lugardet": "Honduras",
     "periodo": 2023,
-		"complemento": "población en condiciones de pobreza"
+		"complemento": "población en condiciones de pobreza",
+		"interpretacion":"Expresa el porcentaje de la población que se encuentra en condiciones de extrema pobreza según el censo de población y vivienda del año 2013"
   },
   {
     "fecha": "2025-04-02",  
@@ -15,7 +16,8 @@
     "lugar": "Departamento de Cortés",
     "lugardet": "Copán",
     "periodo": 2025,
-		"complemento": "Alfabetización"
+		"complemento": "Alfabetización",
+		"interpretacion":"Expresa el porcentaje de la población que se encuentra en condiciones de extrema pobreza según el censo de población y vivienda del año 2013"
   }
 ]
 
