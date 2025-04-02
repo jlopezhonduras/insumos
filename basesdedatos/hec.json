@@ -7,6 +7,15 @@
     "lugardet": "Honduras",
     "periodo": 2023,
 		"complemento": "población en condiciones de pobreza"
+  },
+  {
+    "fecha": "2025-04-02",  
+    "valor": "55%",
+    "fuente": "Proyecciones de Población",
+    "lugar": "Departamento de Copán",
+    "lugardet": "Copán",
+    "periodo": 2025,
+		"complemento": "Alfabetización"
   }
 ]
 
