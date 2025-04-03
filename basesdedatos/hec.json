@@ -18,6 +18,16 @@
     "periodo": 2025,
 		"complemento": "Alfabetización",
 		"interpretacion":"Expresa el porcentaje de la población que se encuentra en condiciones de extrema pobreza según el censo de población y vivienda del año 2013"
+  },
+  {
+    "fecha": "2025-04-03",  
+    "valor": "10039862",
+    "fuente": "Proyecciones de Población 2013-2030",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+		"complemento": "Población Total",
+		"interpretacion":"Expresa la cantidad total de población en Honduras para el año 2025 según las proyecciones de población del INE 2013-2030"
   }
 ]
 
