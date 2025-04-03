@@ -1,28 +1,8 @@
-[
-  {
-    "fecha": "2025-04-01",  
-    "valor": "10%",
-    "fuente": "Censo de Población y Vivienda",
-    "lugar": "País",
-    "lugardet": "Honduras",
-    "periodo": 2023,
-		"complemento": "población en condiciones de pobreza",
-		"interpretacion":"Expresa el porcentaje de la población que se encuentra en condiciones de extrema pobreza según el censo de población y vivienda del año 2013"
-  },
-  {
-    "fecha": "2025-04-02",  
-    "valor": "70%",
-    "fuente": "Proyecciones de Población 2013-2030",
-    "lugar": "Departamento de Cortés",
-    "lugardet": "Copán",
-    "periodo": 2025,
-		"complemento": "Alfabetización",
-		"interpretacion":"Expresa el porcentaje de la población que se encuentra en condiciones de extrema pobreza según el censo de población y vivienda del año 2013"
-  },
+[  
   {
     "fecha": "2025-04-03",  
     "valor": "10,039,862",
-    "fuente": "Proyecciones de Población 2013-2030",
+    "fuente": "Proyecciones de Población 2013-2030, INE",
     "lugar": "Honduras",
     "lugardet": "",
     "periodo": 2025,
