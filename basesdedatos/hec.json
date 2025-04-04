@@ -18,7 +18,7 @@
     "lugardet": "",
     "periodo": 2025,
 		"complemento": "Densidad Poblacional",
-		"interpretacion":"Expresa la cantidad de habitantes por kilometro cuadrado en el país en base a la poblacion proyectada por el INE para 2025 y la extensión territorial de Honduras",
+		"interpretacion":"Muestra cuántas personas viven, en promedio, por cada kilómetro cuadrado en Honduras, según la población proyectada por el INE para 2025 y la extensión territorial del país.",
 		"datoc":"Habitantes/km2"
   }
 ]
