@@ -7,7 +7,8 @@
     "lugardet": "",
     "periodo": 2025,
 		"complemento": "Población Total",
-		"interpretacion":"Expresa la cantidad total de población en Honduras para el año 2025 según las proyecciones de población del INE 2013-2030"
+		"interpretacion":"Expresa la cantidad total de población en Honduras para el año 2025 según las proyecciones de población del INE 2013-2030",
+		"datoc":"Habitantes"
   },
 	{
     "fecha": "2025-04-04",  
@@ -17,7 +18,8 @@
     "lugardet": "",
     "periodo": 2025,
 		"complemento": "Densidad Poblacional",
-		"interpretacion":"Expresa la cantidad de habitantes por kilometro cuadrado en el país en base a la poblacion proyectada por el INE para 2025 y la extensión territorial de Honduras"
+		"interpretacion":"Expresa la cantidad de habitantes por kilometro cuadrado en el país en base a la poblacion proyectada por el INE para 2025 y la extensión territorial de Honduras",
+		"datoc":"Habitantes/km2"
   }
 ]
 
