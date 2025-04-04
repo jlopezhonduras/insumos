@@ -20,6 +20,41 @@
 		"complemento": "Densidad Poblacional",
 		"interpretacion":"Muestra cuántas personas viven, en promedio, por cada kilómetro cuadrado en Honduras, según la población proyectada por el INE para 2025 y la extensión territorial del país.",
 		"datoc":"Habitantes/km2"
+  },
+	{
+    "fecha": "2025-04-05",  
+    "valor": "112,777",
+    "fuente": "Instituto de la Propiedad de Honduras, 2025",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+		"complemento": "kilómetros cuadrados",
+		"interpretacion":"Muestra cuantos kilómetros cuadrados de extensión territorial tiene Honduras",
+		"datoc":"Kilómetros cuadrados"
+  },
+	{
+    "fecha": "2025-04-06",  
+    "valor": "4,882,166",
+    "fuente": "Proyecciones de Población 2013-2030, INE",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+		"complemento": "Habitantes",
+		"interpretacion": "Expresa la cantidad total de población masculina en Honduras para el año 2025 según las proyecciones de población del INE 2013-2030",
+		"datoc":"hombres"
+  },
+	{
+    "fecha": "2025-04-07",  
+    "valor": "5,157,696",
+    "fuente": "Proyecciones de Población 2013-2030, INE",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+		"complemento": "Habitantes",
+		"interpretacion": "Expresa la cantidad total de población femenina en Honduras para el año 2025 según las proyecciones de población del INE 2013-2030",
+		"datoc":"mujeres"
   }
+	
+	
 ]
 
