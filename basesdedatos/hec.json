@@ -53,7 +53,19 @@
 		"complemento": "Habitantes",
 		"interpretacion": "Expresa la cantidad total de población femenina en Honduras para el año 2025 según las proyecciones de población del INE 2013-2030",
 		"datoc":"mujeres"
+  },
+	{
+    "fecha": "2025-04-08",  
+    "valor": "7.8",
+    "fuente": "Encuesta Permanente de Hogares de Propósitos Multiples, INE, 2023",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2023,
+		"complemento": "Años de Estudio",
+		"interpretacion": "Expresa la cantidad de años de estudio promedio que posee un hondureño a nivel nacional para el año 2023, según la Encuesta Permanente de Hogares de Propósitos Multiples del INE.",
+		"datoc":"años"
   }
+	
 	
 	
 ]
