@@ -74,6 +74,16 @@
 		"complemento": "Indice de Desarrollo Humano",
 		"interpretacion": "Expresa la nota obtenida para el Índice de Desarrollo Humano para el departamento de Atlántida en el año 2019 según el informe de IDH del Programa de las Naciones Unidas para el Desarrollo",
 		"datoc":"indice"
+  },{
+    "fecha": "2025-04-10",  
+    "valor": "1,002,966",
+    "fuente": "Protecciones de Población, INE, 2013-2030",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+		"complemento": "Población menor de 5 años",
+		"interpretacion": "Muestra el total de población de edad menor a 5 años en Honduras, según las protecciones de población del INE para el año 2025",
+		"datoc":"habitantes"
   }
 	
 	
