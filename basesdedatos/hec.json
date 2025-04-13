@@ -104,6 +104,16 @@
 		"complemento": "Población indigena y afrohondureña",
 		"interpretacion": "Muestra el total de la población indigena y afrohondureña proyectada para el año 2025, según el Observatorio de Derechos Humanos de Honduras para el año 2025",
 		"datoc":"habitantes"
+  },{
+    "fecha": "2025-04-13",  
+    "valor": "459,422",
+    "fuente": "Proyecciones de Población, INE, 2013-2030",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+		"complemento": "Población en edad de 20 a 24 años",
+		"interpretacion": "Muestra el total de la población hondureña proyectada para el año 2025 del grupo de edad de 20 a 24 años, según las proyecciones de población del INE.",
+		"datoc":"habitantes"
   }
 	
 	
