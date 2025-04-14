@@ -121,9 +121,9 @@
     "lugar": "Honduras",
     "lugardet": "",
     "periodo": 2025,
-		"complemento": "Población indígena y afrohondureña",
+		"complemento": "Porcentaje de Población indígena y afrohondureña",
 		"interpretacion": "Muestra el porcentaje de la población perteneciente a los pueblos indígenas y afrohondureños proyectados para el año 2025 según el Observatorio de Derechos Humanos ODH.",
-		"datoc":"habitantes"
+		"datoc":"porcentaje"
   }
 	
 	
