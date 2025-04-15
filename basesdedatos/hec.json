@@ -124,6 +124,16 @@
 		"complemento": "Porcentaje de Población indígena y afrohondureña",
 		"interpretacion": "Muestra el porcentaje de la población perteneciente a los pueblos indígenas y afrohondureños proyectados para el año 2025 según el Observatorio de Derechos Humanos ODH.",
 		"datoc":"porcentaje"
+  },{
+    "fecha": "2025-04-15",  
+    "valor": "10,039,862",
+    "fuente": "Proyecciones de Población 2013-2030, INE",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+		"complemento": "Población Total",
+		"interpretacion":"Expresa la cantidad total de población en Honduras para el año 2025 según las proyecciones de población del INE 2013-2030",
+		"datoc":"Habitantes"
   }
 	
 	
