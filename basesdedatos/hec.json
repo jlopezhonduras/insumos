@@ -114,6 +114,17 @@
 		"complemento": "Población en edad de 20 a 24 años",
 		"interpretacion": "Muestra el total de la población hondureña proyectada para el año 2025 del grupo de edad de 20 a 24 años, según las proyecciones de población del INE.",
 		"datoc":"habitantes"
+  },
+	{
+    "fecha": "2025-04-16",  
+    "valor": "89",
+    "fuente": "Proyecciones de Población 2013-2030, INE",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+		"complemento": "Densidad Poblacional",
+		"interpretacion":"Muestra cuántas personas viven, en promedio, por cada kilómetro cuadrado en Honduras, según la población proyectada por el INE para 2025 y la extensión territorial del país.",
+		"datoc":"Habitantes/km2"
   }
 	
 	
