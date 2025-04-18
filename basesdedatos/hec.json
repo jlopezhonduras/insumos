@@ -1,13 +1,13 @@
 [  
 	{
-    "fecha": "2025-04-17",  
-    "valor": "4,882,166",
+    "fecha": "2025-04-18",  
+    "valor": "5,157,969",
     "fuente": "Proyecciones de Población 2013-2030, INE",
     "lugar": "Honduras",
     "lugardet": "",
     "periodo": 2025,
-		"complemento": "Población Masculina",
-		"interpretacion":"Muestra cuántas personas del sexo masculino estan proyectadas para el año 2025 según las proyecciones de población del INE para el año 2025",
+		"complemento": "Población Femenina",
+		"interpretacion":"Muestra cuántas personas del sexo femenino estan proyectadas para el año 2025 según las proyecciones de población del INE para el año 2025",
 		"datoc":"hombres"
   }
 	
