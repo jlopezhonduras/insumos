@@ -1,0 +1,14 @@
+[
+    {
+        "ID": "1",
+        "Dsc": "Esta es la primera clausula",
+        "Titulo": "Primera Clausula",
+        "Numero": "1"
+    },
+    {
+        "ID": "2",
+        "Dsc": "Esta es la segunda Clausula",
+        "Titulo": "Segunda Clausula",
+        "Numero": "1"
+    }
+]
