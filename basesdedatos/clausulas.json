@@ -25,8 +25,14 @@
     },
     {
         "ID": "5",
-        "Dsc": "La UNAH se compromete a no intervenir en los asuntos internos del SITRAUNAH, por medio de sus representantes, funcionarios o empleados que ocupan cargos de la jefatura, departamento o sección; no tomará represalias ni asumirá ninguna actitud discriminatoria, ejerciendo coacción directa o indirecta contra los trabajadores por género, raciales, religiosas, personas con discapacidad y a no ejercer ninguna acción en contra de sus trabajadores por motivos de afiliación a la organización sindical. La Junta Directiva Central, las juntas directivas seccionales y los representantes sindicales serán debidamente acreditados ante la Secretaría Ejecutiva de Desarrollo de Personal (SEDP), por conducto de la Secretaría General",
-        "Titulo": "Clausula No. 4",
+        "Dsc": "La UNAH se compromete a no intervenir en los asuntos internos del SITRAUNAH, por medio de sus representantes, funcionarios o empleados que ocupan cargos de la jefatura, departamento o sección; no tomará represalias ni asumirá ninguna actitud discriminatoria, ejerciendo coacción directa o indirecta contra los trabajadores por género, raciales, religiosas, personas con discapacidad y a no ejercer ninguna acción en contra de sus trabajadores por motivos de afiliación a la organización sindical. La Junta Directiva Central, las juntas directivas seccionales y los representantes sindicales serán debidamente acreditados ante la Secretaría Ejecutiva de Desarrollo de Personal (SEDP), por conducto de la Secretaría General. <br><br>En caso de que, por su disposición legislativa, fusión, absorción o por cualquier otra causa la UNAH, Centros Regionalews o cualquier estructura que dependa de la institución, cambie de nombre o representante, siempre se denominará el patrono y el sustituto se subrogará en los derechos y obligaciones del sustituido y dara cumplimiento al presente Contrato Colectivo de Trabajo.",
+        "Titulo": "Clausula No. 5",
+        "Numero": "5"
+    },
+    {
+        "ID": "6",
+        "Dsc": "Tanto la UNAH como el SITRAUNAH, podrán girarse convocatorias para tratar asuntos de interés común, las que deberán hacerse por lo menos con tres (3) días hábiles de anticipación, indicando el propósito de la agenda a desarrollar.",
+        "Titulo": "Clausula No. 6",
         "Numero": "5"
     }
 ]
