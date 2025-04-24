@@ -21,7 +21,7 @@
         "ID": "4",
         "Dsc": "La UNAH y el SITRAUNAH, se comprometen a contestar por escrito o vía electrónica, en un término no mayor de ocho (8) días hábiles después de recibida, toda correspondencia que sobre asuntos laborales se crucen entre sí. Sin menoscabo de lo anterior se podrán convenir reuniones para un mejor tratamiento de la problemáica laboral existente.",
         "Titulo": "Clausula No. 4",
-        "Numero": "3"
+        "Numero": "4"
     },
     {
         "ID": "5",
@@ -33,6 +33,13 @@
         "ID": "6",
         "Dsc": "Tanto la UNAH como el SITRAUNAH, podrán girarse convocatorias para tratar asuntos de interés común, las que deberán hacerse por lo menos con tres (3) días hábiles de anticipación, indicando el propósito de la agenda a desarrollar.",
         "Titulo": "Clausula No. 6",
-        "Numero": "5"
+        "Numero": "6"
+    },
+    {
+        "ID": "7",
+        "Dsc": "En los casos de duda respecto a la aplicación de cualesquiera de las cláusulas del presente Contrato Colectivo, podrán ser aprobados y resueltos de común acuerdo, entre la UNAH y el SITRAUNAH; sin perjuicio del derecho individual que el trabajador o sus beneficiarios puedan tener para reclamar directamente.",
+        "Titulo": "Clausula No. 7",
+        "Numero": "7"
     }
+	
 ]
