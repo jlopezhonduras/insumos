@@ -1,4 +1,9 @@
-[
+[		{
+        "ID": "0",
+        "Dsc": "Esta app fue desarrollada con el propósito de brindar una herramienta de acceso al contrato colectivo al personal docente, administrativo y de servicio de la UNAH.",
+        "Titulo": "Contrato Colectivo UNAH 2025",
+        "Numero": "0"
+    },
     {
         "ID": "1",
         "Dsc": "El presente Contrato Colectivo, de Condiciones Generales de Trabajo, celebrado entre la Universidad Nacional Autónoma de Honudras (UNAH) y el Sindicato de Trabajadores de la Universidad Nacional Autónoma de Honudras (SITRAUNAH), obliga a las partes contratantes; quienes en lo sucesivo se denominarán UNAH y SITRAUNAH respectivamente, beneficia y es aplicable, en lo que corresponda, a todos los trabajadores, docentes, instructores, técnicos, de gestión académica, administrativos, de servicios generales, de campo y demás trabajadores, independientemente del lugar donde preste sus servicios y la forma de contratación. Ambas partes reconocen que las y los estudiantes constituyen el origen y fin primordial de la UNAH.",
