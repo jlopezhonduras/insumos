@@ -144,9 +144,15 @@
     },
     {
         "ID": "24",
-        "Dsc": "Se considerarán empleados de confianza, los que desempeñen la titularidad de los siguientes cargos: <br><br>1. Junta Directiva.<br><br>Rectoría.<br><br>3. Vicerrectorías.<br><br>4. Decanos de las Facultades.<br><br>5. Directores de Centros Regionales Universitarios.<br><br>6.Secretaría General central y regional.<br><br>7. Secretarías Ejecutivas.<br><br>8. Abogado General.<br><br>9. Tesorero General.<br><br>10. Directores Académicos y Administrativos centrales y regionales.<br><br>11. Comisión de Control y Gestión.<br><br>12. Auditoría Interna.<br><br>13. Coordinadores o Jefes Regionales de Recursos Humanos.",
-        "Titulo": "Clausula No. 23",
-        "Numero": "23"
+        "Dsc": "Se considerarán empleados de confianza, los que desempeñen la titularidad de los siguientes cargos: <br><br>1. Junta Directiva.<br><br>2. Rectoría.<br><br>3. Vicerrectorías.<br><br>4. Decanos de las Facultades.<br><br>5. Directores de Centros Regionales Universitarios.<br><br>6.Secretaría General central y regional.<br><br>7. Secretarías Ejecutivas.<br><br>8. Abogado General.<br><br>9. Tesorero General.<br><br>10. Directores Académicos y Administrativos centrales y regionales.<br><br>11. Comisión de Control y Gestión.<br><br>12. Auditoría Interna.<br><br>13. Coordinadores o Jefes Regionales de Recursos Humanos.",
+        "Titulo": "Clausula No. 24",
+        "Numero": "24"
+    },
+    {
+        "ID": "25",
+        "Dsc": "Los trabajadores realizarán sus labores de la manera que se estipula en los contratos individuales de trabajo de acuerdo a las funciones del puesto en que han sido nombrados. La UNAH, podrá destinarlos a ocupaciones distintas a las indicadas en su contrato de trabajo, que tengan relación directa con la profesión u oficio requerido para su nombramiento, siempre que no haya menoscavo de su salario ni se lesione su dignidad, previo consentimiento del trabajador. En el caso de que no hubiere acuerdo a este nivel y la UNAH insistiere en la necesidad de efectuar el traslado, las partes procederán a tratar en las instancias indicadas en la Cláusula No. 10.",
+        "Titulo": "Clausula No. 25",
+        "Numero": "25"
     }
  
 	
