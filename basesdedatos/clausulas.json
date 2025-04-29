@@ -270,9 +270,27 @@
     },
     {
         "ID": "45",
-        "Dsc": "Si la UNAH, requiere los servicios de un trabajador en horas extraordinarias que excedan en su jornada de trabajo o en días inhábiles, se les notificará previamente y si el trabajador se ve imposibilitado para atender el llamado por razones justificadas, esta negativa no dará lugar a la adopción de medidas disciplinarias o tratamiento discriminatorio en su contra, que lo desmejore en su posición laboral. Al trabajador que labore tiempo extraordinario se le deberá remunerar en efectivo o en tiempo compensatorio y en caso de laborar en días feriados, se compensará doble o dos (2) días..",
+        "Dsc": "Si la UNAH, requiere los servicios de un trabajador en horas extraordinarias que excedan en su jornada de trabajo o en días inhábiles, se les notificará previamente y si el trabajador se ve imposibilitado para atender el llamado por razones justificadas, esta negativa no dará lugar a la adopción de medidas disciplinarias o tratamiento discriminatorio en su contra, que lo desmejore en su posición laboral. Al trabajador que labore tiempo extraordinario se le deberá remunerar en efectivo o en tiempo compensatorio y en caso de laborar en días feriados, se compensará doble o dos (2) días.",
         "Titulo": "Clausula No. 45",
         "Numero": "45"
+    },
+    {
+        "ID": "46",
+        "Dsc": "Cuando los trabajadores tengan que laborar en días feriados, de descanso o realizar trabajos en horas extraordinarias, la UNAH procederá a reconocer o remunerar dichos trabajos en la siguiente forma:<br>1. La remuneración a que dé lugar el trabajo en días feriados, de descanso u horas extras, se hará efectiva dentro de los veinte (20) días laborales inmediatos a la terminación del trabajo.<br>2. Para garantizar el cumplimiento de esta cláusula en lo referente al trámite de pago en los Centros Regionales, la Secretaría Ejecutiva de Desarrollo de Personal dará prioridad al procedimiento, destinando para este efecto, dentro de su personal, un empleado para que en forma exclusiva atienda dichos compromisos. Asimismo, los directores de Centros Regionales se obligan a enviar a la Secretaría Ejecutiva de Desarrollo de Personal los reportes por concepto de horas extras a más tardar el quince (15) de cada mes, enviando copia de la remisión a las respectivas seccionales sindicales.",
+        "Titulo": "Clausula No. 46",
+        "Numero": "46"
+    },
+    {
+        "ID": "47",
+        "Dsc": "La UNAH proporcionará a sus trabajadores de tiempo completo, durante su jornada, ya sea diurna o mixta, una (1) hora diaria para que puedan tomar sus alimentos, en el entendido que siempre habrá personal prestando servicios de manera ininterrumpida.",
+        "Titulo": "Clausula No. 47",
+        "Numero": "47"
+    },
+    {
+        "ID": "48",
+        "Dsc": "La UNAH dispone que la jornada semanal de trabajo en todas sus dependencias, no puede ser superior a treinta y ocho (38) horas, distribuidas en horario de lunes a viernes o de lunes a sábado, según los casos.",
+        "Titulo": "Clausula No. 48",
+        "Numero": "48"
     }
  
 	
