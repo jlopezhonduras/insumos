@@ -474,8 +474,50 @@
     },
     {
         "ID": "79",
-        "Dsc": "La UNAH, otrogará un permiso anual a los trabajadores que realicen estudios secundarios o universitarios bajo las siguientes condiciones:<br>.<div class='table-responsive table-custom'><table class='table table-bordered'><thead><tr><th>Índice Académico</th><th>Estudiante de Secundaria</th>       <th>Estudiante Universitario</th><th>Unidades Valorativas</th></tr></thead><tbody><tr><td>76%-79%</td><td>L. 700.00</td><td>L. 850.00</td>                   <td>28</td></tr><tr><td>80%-89%</td><td>L. 1,000.00</td><td>L. 1,500.00</td><td>28</td></tr><tr><td>90% o más</td><td>L. 1,500.00</td><td>L. 2,000.00</td>     <td>28</td></tr></tbody></table></div>",
+        "Dsc": "La UNAH, otrogará un permiso anual a los trabajadores que realicen estudios secundarios o universitarios bajo las siguientes condiciones:<br>.<div class='table-responsive table-custom'><table class='table table-bordered'><thead><tr><th>Índice Académico</th><th>Estudiante de Secundaria</th>       <th>Estudiante Universitario</th><th>Unidades Valorativas</th></tr></thead><tbody><tr><td>76%-79%</td><td>L. 700.00</td><td>L. 850.00</td>                   <td>28</td></tr><tr><td>80%-89%</td><td>L. 1,000.00</td><td>L. 1,500.00</td><td>28</td></tr><tr><td>90% o más</td><td>L. 1,500.00</td><td>L. 2,000.00</td>     <td>28</td></tr></tbody></table></div><br>Los trabajadores beneficiados deberán trabajar a tiempo completo y tener carácter laboral permanente. Dichos premios serán entregados por la UNAH después de haber sido seleccionados por la Comisión Bipartita de Becas.",
         "Titulo": "Clausula No. 79",
         "Numero": "79"
+    },
+    {
+        "ID": "80",
+        "Dsc": "Cuando la UNAH promueva, a través de sus dependencias, cursos, seminarios y conferencias, con el propósito de seleccionar personal, se dará preferencia a los trabajadores de sus diferentes unidades. La unidad patrocinadora de los cursos, seminarios y conferencias, publicará con quince (15) días de anticipación a los mismos, para que los trabajadores puedan inscribirse, debiendo además, girar la comunicación correspondiente al SITRAUNAH.",
+        "Titulo": "Clausula No. 80",
+        "Numero": "80"
+    },
+    {
+        "ID": "81",
+        "Dsc": "Cuando se presenten interinatos por materninad, vacaciones, incapacidades, licencias y permisos, serán cubiertos mediante la promoción automática dentro del personal del departamento respectivo. De no existir interesados en el mismo departamento, siempre y cando se reúnan los requisitos se seguirá el proceso de selección en consideración a los postulantes a la plaza de otros departamentos de la UNAH; de acuerdo a lo que establece el Manual de Puestos y Salarios.",
+        "Titulo": "Clausula No. 81",
+        "Numero": "81"
+    },
+    {
+        "ID": "82",
+        "Dsc": "En los casos de promoción temporal por sustitución, definidos en la cláusula Nº 81, los empleados devengarán el salario que corresponde al puesto según las categorías y parámetros del Manual de Puestos y Salarios. Al concluir el interinato, el trabajador promocionado temporalmente regresará a su puesto bajo las mismas condiciones, en el entendido que, de presentarse una nueva oportunidad, éste tendrá preferencia para ser promovido, de acuerdo a la evaluación de desempeño. El sustituto temporal, previo a evaluación de desempeño, podrá ser nombrado en el puesto de manera definitiva, en caso de que el empleado sustituido decida, por cualquier motivo, no reincorporarse a su puesto de trabajo.",
+        "Titulo": "Clausula No. 82",
+        "Numero": "82"
+    },
+    {
+        "ID": "83",
+        "Dsc": "Con el objeto de darle cumplimiento a lo establecido en el Código del Trabajo en el sentido de que a trabajo igual corresponde salario igual, la UNAH se compromete a pagarle el mismo salario a aquellos trabajadores que teniendo la misma categoría, iguales funciones y las mismas obligaciones o deberes, independientemente de la clasificación que la UNAH le hubiere dado de acuerdo a su Manual de Puestos y Salarios, sea distinta. Para este efecto, el trabajador o el SITRAUNAH harán las solicitudes del caso, las cuales serán comprobadas entre los representantes de la Secretaría Ejecutiva de Desarrollo de Personal y el SITRAUNAH. Este beneficio es aplicable también al trabajador de nuevo ingreso.",
+        "Titulo": "Clausula No. 83",
+        "Numero": "83"
+    },
+    {
+        "ID": "84",
+        "Dsc": "En el sector docente y administrativo, la UNAH se abstendrá de contratar personal por tiempo determinado en labores que, por su naturaleza, sean continuas o permanentes. La UNAH únicamente podrá contratar trabajadores por tiempo determinado de acuerdo a lo prescrito en el Código de Trabajo y en el presente Contrato Colectivo, en las circunstancias siguientes:<br>1. En el sector administrativo y servicios generales, cuando ello sea exigido por la especial naturaleza de la actividad laboral derivada del contrato temporal.<br>2. Para cubrir plazas de manera interina, cuyas vacantes hayan sido provocadas por razón de licencias, permisos, vacaciones, traslados temporales e interinatos; la sustitución durará única y exclusivamente por el tiempo que el trabajador sustituido esté ausente de sus labores por estos conceptos.<br>3. Cuando la contratación tenga como objetivo la ejecución de una obra o de un servicio definido y predeterminado en el tiempo que tenga que contratar de forma extraordinaria u ocasionalmente.<br>4. En los casos del personal docente destinado a cubrir las secciones extraordinarias de cada período, como consecuencia del incremento de la matrícula.<br>5. Al trabajador por tiempo determinado le corresponderán las vacaciones, decimotercer y decimocuarto mes de salario en forma proporcional al tiempo trabajado; el pago del séptimo día y cualquier otro tratamiento económico que se efectúe regularmente a los trabajadores por tiempo indeterminado serán pagados en proporción al tiempo laborado.",
+        "Titulo": "Clausula No. 84",
+        "Numero": "84"
+    },
+    {
+        "ID": "85",
+        "Dsc": "El período de prueba tendrá por objeto por parte de la UNAH, apreciar las aptitudes del trabajador, quien deberá estimar lo conveniente, sobre las condiciones de trabajo y ponerlo de manifiesto por escrito. Durante el período de prueba, cualquiera de las partes podrá dar por terminada la relación de trabajo por su propia voluntad, con justa causa o sin ella, sin incurrir en responsabilidad alguna.<br>El período de prueba para todos los trabajadores que ingresen con categoría administrativa y de servicio a la UNAH será de treinta y cinco (35) días. Este será remunerado de acuerdo a la base miníma del cargo que ostente según el Manual de Puestos y Salarios de la UNAH.<br>Para el sector docente, el tiempo de prueba será de dos (2) períodos académicos consecutivos. Durante el período de prueba gozarán de todas las prestaciones y los beneficios aplicables, con excepción del preaviso y la indemnización por despido injustificado. Si al concluir el período de prueba ninguna de las partes manifiesta voluntad de dar por terminada la relación de trabajo, esta continuará por el tiempo estipulado o indefinido.",
+        "Titulo": "Clausula No. 85",
+        "Numero": "85"
+    },
+    {
+        "ID": "86",
+        "Dsc": "Con el fin de que los trabajadores de nuevo ingreso no sufran retrasos en el pago de su salario, la UNAH aplicará las Normas Generales de Ejecución y Evaluación del Presupuesto General de Ingresos y Egresos de la UNAH, en el sentido de no dar posesión en su cargo a ningún trabajador, si previamente no se ha procedido a emitir el contrato o nombramiento respectivo. Para este efecto, se normalizará su contratación o nombramiento en un plazo no mayor de sesenta (60) días. Todo funcionario que actúe al margen de esta disposición de procedimiento administrativo, será sancionado con la aplicación de la normativa correspondiente.",
+        "Titulo": "Clausula No. 86",
+        "Numero": "86"
     }
 ]
