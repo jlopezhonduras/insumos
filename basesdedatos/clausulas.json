@@ -1,6 +1,6 @@
 [		{
         "ID": "0",
-        "Dsc": "Bienvenido a la app del XVII Contrato Colectivo UNAH.<br><br>Esta app brinda a los empleados universitarios de una herramienta para consultar las clausulas del XVII Contrato Colectivo firmado entre la UNAH y el SITRAUNAH.<div style='margin-top:50px'>Este 29 de Mayo vota MURS<img src='https://github.com/jlopezhonduras/insumos/raw/main/imagenes/murs.png' title='Vota MURS' alt='Vota MURS' ></div>",
+        "Dsc": "Bienvenido a la app del XVII Contrato Colectivo UNAH.<br><br>Esta app brinda a los empleados universitarios de una herramienta para consultar las clausulas del XVII Contrato Colectivo firmado entre la UNAH y el SITRAUNAH.<div style='margin-top:50px'>Este 29 de Mayo vota MURS<div><img src='https://github.com/jlopezhonduras/insumos/raw/main/imagenes/murs.png' class='img-fluid' title='Vota MURS' alt='Vota MURS'></div></div>",
         "Titulo": "XVII Contrato Colectivo UNAH",
         "Numero": "0"
     },
