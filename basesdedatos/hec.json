@@ -88,7 +88,7 @@
     "datoc": "edad"
   },
   {
-    "fecha": "2025-06-10",
+    "fecha": "2025-06-23",
     "valor": "6.0",
     "fuente": "Proyección INE Honduras",
     "lugar": "Honduras",
@@ -99,7 +99,7 @@
     "datoc": "crecimiento"
   },
   {
-    "fecha": "2025-06-10",
+    "fecha": "2025-06-24",
     "valor": "73.1",
     "fuente": "Proyección OMS",
     "lugar": "Honduras",
@@ -110,7 +110,7 @@
     "datoc": "salud"
   },
   {
-    "fecha": "2025-06-10",
+    "fecha": "2025-06-25",
     "valor": "101",
     "fuente": "Proyección INE Honduras",
     "lugar": "Honduras",
@@ -121,7 +121,7 @@
     "datoc": "género"
   },
   {
-    "fecha": "2025-06-10",
+    "fecha": "2025-06-26",
     "valor": "9.0",
     "fuente": "Proyección INE Honduras",
     "lugar": "Honduras",
@@ -132,7 +132,7 @@
     "datoc": "etnia"
   },
   {
-    "fecha": "2025-06-10",
+    "fecha": "2025-06-27",
     "valor": "3.5",
     "fuente": "Proyección UNICEF",
     "lugar": "Honduras",
@@ -143,7 +143,7 @@
     "datoc": "salud"
   },
   {
-    "fecha": "2025-06-10",
+    "fecha": "2025-06-28",
     "valor": "69.0",
     "fuente": "Proyección INE Honduras",
     "lugar": "Honduras",
@@ -154,7 +154,7 @@
     "datoc": "edad"
   },
   {
-    "fecha": "2025-06-10",
+    "fecha": "2025-06-29",
     "valor": "13.5",
     "fuente": "Proyección INE Honduras",
     "lugar": "Honduras",
@@ -165,7 +165,7 @@
     "datoc": "edad"
   },
   {
-    "fecha": "2025-06-10",
+    "fecha": "2025-06-30",
     "valor": "4.3",
     "fuente": "Proyección BM",
     "lugar": "Honduras",
