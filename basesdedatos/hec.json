@@ -1,13 +1,13 @@
 [
   {
-    "fecha": "2025-07-07",
-    "valor": "493,612",
+    "fecha": "2025-11-07",
+    "valor": "10,039,862",
     "fuente": "Proyecciones de Población (2013 - 2030)",
     "lugar": "Honduras",
     "lugardet": "",
-    "periodo": 2014,
-    "complemento": "Población Masculina Año 2014 de 0 a 4 años de edad",
-    "interpretacion": "Número de personas del sexo masculino en el grupo de edad de 0 a 4 años para el año 2014",
-    "datoc": "hombres"
+    "periodo": 2025,
+    "complemento": "Población total de Honduras",
+    "interpretacion": "Total de habitantes de Honduras para el año 2025",
+    "datoc": "habitantes"
   }
 ]
