@@ -9,5 +9,16 @@
     "complemento": "Extensión Territorial de Honduras",
     "interpretacion": "Extensión territorial de Honduras",
     "datoc": "habitantes"
+  },
+	{
+    "fecha": "2025-03-11",
+    "valor": "5,618,470",
+    "fuente": "Proyecciones de Población INE, 2013-2030",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+    "complemento": "Población del Área Urbana",
+    "interpretacion": "Población total del área urbana proyectada para el año 2025 en Honduras",
+    "datoc": "habitantes"
   }
 ]
