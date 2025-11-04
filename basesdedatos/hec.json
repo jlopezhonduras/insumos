@@ -20,5 +20,16 @@
     "complemento": "Población del Área Urbana",
     "interpretacion": "Población total del área urbana proyectada para el año 2025 en Honduras",
     "datoc": "habitantes"
+  },
+	{
+    "fecha": "2025-11-04",
+    "valor": "4,421,392",
+    "fuente": "Proyecciones de Población INE, 2013-2030",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2025,
+    "complemento": "Población del Área Rural",
+    "interpretacion": "Población total del área rural proyectada para el año 2025 en Honduras",
+    "datoc": "habitantes"
   }
 ]
