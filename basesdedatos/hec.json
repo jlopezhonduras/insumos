@@ -1,14 +1,14 @@
 [
   {
-    "fecha": "2025-11-02",
-    "valor": "112,777",
+    "fecha": "2025-11-05",
+    "valor": "89",
     "fuente": "INE - 2025",
     "lugar": "Honduras",
     "lugardet": "",
     "periodo": 2025,
-    "complemento": "Extensión Territorial de Honduras",
-    "interpretacion": "Extensión territorial de Honduras",
-    "datoc": "km2"
+    "complemento": "Densidad Poblacional",
+    "interpretacion": "Es el número de personas que habitan por km2 en el país para el año 2025",
+    "datoc": "habitantes"
   },
 	{
     "fecha": "2025-11-03",
