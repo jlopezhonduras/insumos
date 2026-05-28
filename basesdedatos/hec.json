@@ -1,35 +1,167 @@
 [
   {
-    "fecha": "2025-11-05",
-    "valor": "89",
-    "fuente": "INE - 2025",
+    "fecha": "2026-05-28",
+    "valor": "10,945,321",
+    "fuente": "INE Honduras - Proyecciones de Población 2026",
     "lugar": "Honduras",
     "lugardet": "",
-    "periodo": 2025,
+    "periodo": 2026,
+    "complemento": "Población Total",
+    "interpretacion": "Población total proyectada para Honduras en el año 2026",
+    "datoc": "habitantes"
+  },
+  {
+    "fecha": "2026-05-29",
+    "valor": "56.2",
+    "fuente": "Banco Central de Honduras - Indicadores Económicos 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Inflación Acumulada",
+    "interpretacion": "Variación acumulada del índice de precios al consumidor",
+    "datoc": "porcentaje"
+  },
+  {
+    "fecha": "2026-05-30",
+    "valor": "5,940,210",
+    "fuente": "INE Honduras - Área Urbana 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Población Urbana",
+    "interpretacion": "Cantidad de habitantes que residen en zonas urbanas",
+    "datoc": "habitantes"
+  },
+  {
+    "fecha": "2026-05-31",
+    "valor": "5,005,111",
+    "fuente": "INE Honduras - Área Rural 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Población Rural",
+    "interpretacion": "Cantidad de habitantes que residen en zonas rurales",
+    "datoc": "habitantes"
+  },
+  {
+    "fecha": "2026-06-01",
+    "valor": "93",
+    "fuente": "INE Honduras - Estadísticas Territoriales 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
     "complemento": "Densidad Poblacional",
-    "interpretacion": "Es el número de personas que habitan por km2 en el país para el año 2025",
+    "interpretacion": "Número promedio de habitantes por km2 en Honduras",
     "datoc": "habitantes"
   },
-	{
-    "fecha": "2025-11-03",
-    "valor": "5,618,470",
-    "fuente": "Proyecciones de Población INE, 2013-2030",
+  {
+    "fecha": "2026-06-02",
+    "valor": "4.1",
+    "fuente": "BCH - Producto Interno Bruto 2026",
     "lugar": "Honduras",
     "lugardet": "",
-    "periodo": 2025,
-    "complemento": "Población del Área Urbana",
-    "interpretacion": "Población total del área urbana proyectada para el año 2025 en Honduras",
-    "datoc": "habitantes"
+    "periodo": 2026,
+    "complemento": "Crecimiento Económico",
+    "interpretacion": "Tasa anual de crecimiento económico estimada",
+    "datoc": "porcentaje"
   },
-	{
-    "fecha": "2025-11-04",
-    "valor": "4,421,392",
-    "fuente": "Proyecciones de Población INE, 2013-2030",
+  {
+    "fecha": "2026-06-03",
+    "valor": "3.9",
+    "fuente": "Banco Mundial - Honduras 2026",
     "lugar": "Honduras",
     "lugardet": "",
-    "periodo": 2025,
-    "complemento": "Población del Área Rural",
-    "interpretacion": "Población total del área rural proyectada para el año 2025 en Honduras",
-    "datoc": "habitantes"
+    "periodo": 2026,
+    "complemento": "Desempleo Nacional",
+    "interpretacion": "Porcentaje de la población económicamente activa desempleada",
+    "datoc": "porcentaje"
+  },
+  {
+    "fecha": "2026-06-04",
+    "valor": "27.15",
+    "fuente": "BCH - Tipo de Cambio 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Tipo de Cambio Promedio",
+    "interpretacion": "Valor promedio del dólar estadounidense respecto al lempira",
+    "datoc": "lempiras"
+  },
+  {
+    "fecha": "2026-06-05",
+    "valor": "1,245,000",
+    "fuente": "SAG Honduras - Producción Agrícola 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Producción de Café",
+    "interpretacion": "Producción nacional anual estimada de café",
+    "datoc": "quintales"
+  },
+  {
+    "fecha": "2026-06-06",
+    "valor": "72.4",
+    "fuente": "SESAL Honduras - Cobertura Vacunación 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Cobertura de Vacunación",
+    "interpretacion": "Cobertura nacional estimada de vacunación infantil",
+    "datoc": "porcentaje"
+  },
+  {
+    "fecha": "2026-06-07",
+    "valor": "98.1",
+    "fuente": "ENEE - Cobertura Eléctrica 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Cobertura Eléctrica",
+    "interpretacion": "Porcentaje de hogares con acceso a energía eléctrica",
+    "datoc": "porcentaje"
+  },
+  {
+    "fecha": "2026-06-08",
+    "valor": "86.7",
+    "fuente": "CONATEL Honduras - Acceso Internet 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Acceso a Internet",
+    "interpretacion": "Porcentaje estimado de población con acceso a internet",
+    "datoc": "porcentaje"
+  },
+  {
+    "fecha": "2026-06-09",
+    "valor": "6,210",
+    "fuente": "SEDUC Honduras - Centros Educativos 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Centros Educativos",
+    "interpretacion": "Cantidad de centros educativos registrados a nivel nacional",
+    "datoc": "centros"
+  },
+  {
+    "fecha": "2026-06-10",
+    "valor": "1,920",
+    "fuente": "SESAL Honduras - Infraestructura Hospitalaria 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Camas Hospitalarias",
+    "interpretacion": "Número de camas hospitalarias disponibles por cada millón de habitantes",
+    "datoc": "camas"
+  },
+  {
+    "fecha": "2026-06-11",
+    "valor": "64.5",
+    "fuente": "INE Honduras - Pobreza 2026",
+    "lugar": "Honduras",
+    "lugardet": "",
+    "periodo": 2026,
+    "complemento": "Pobreza Nacional",
+    "interpretacion": "Porcentaje estimado de hogares en condición de pobreza",
+    "datoc": "porcentaje"
   }
 ]
