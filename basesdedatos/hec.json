@@ -72,7 +72,7 @@
     "datoc": "porcentaje"
   },
   {
-    "fecha": "2026-06-14",
+    "fecha": "2026-09-14",
     "valor": "3.9",
     "fuente": "Banco Mundial - Honduras 2026",
     "enlace": "https://www.worldbank.org/",
@@ -84,7 +84,7 @@
     "datoc": "porcentaje"
   },
   {
-    "fecha": "2026-06-15",
+    "fecha": "2026-09-15",
     "valor": "27.15",
     "fuente": "BCH - Tipo de Cambio 2026",
     "enlace": "https://www.bch.hn/",
@@ -96,7 +96,7 @@
     "datoc": "lempiras"
   },
   {
-    "fecha": "2026-06-16",
+    "fecha": "2026-09-16",
     "valor": "1,245,000",
     "fuente": "SAG Honduras - Producción Agrícola 2026",
     "enlace": "https://www.sag.gob.hn/",
@@ -108,7 +108,7 @@
     "datoc": "quintales"
   },
   {
-    "fecha": "2026-06-17",
+    "fecha": "2026-09-17",
     "valor": "72.4",
     "fuente": "SESAL Honduras - Cobertura Vacunación 2026",
     "enlace": "https://www.salud.gob.hn/",
@@ -120,7 +120,7 @@
     "datoc": "porcentaje"
   },
   {
-    "fecha": "2026-06-18",
+    "fecha": "2026-09-18",
     "valor": "98.1",
     "fuente": "ENEE - Cobertura Eléctrica 2026",
     "enlace": "https://www.enee.hn/",
@@ -132,7 +132,7 @@
     "datoc": "porcentaje"
   },
   {
-    "fecha": "2026-06-19",
+    "fecha": "2026-09-19",
     "valor": "86.7",
     "fuente": "CONATEL Honduras - Acceso Internet 2026",
     "enlace": "https://www.conatel.gob.hn/",
@@ -144,7 +144,7 @@
     "datoc": "porcentaje"
   },
   {
-    "fecha": "2026-06-20",
+    "fecha": "2026-09-20",
     "valor": "6,210",
     "fuente": "SEDUC Honduras - Centros Educativos 2026",
     "enlace": "https://www.se.gob.hn/",
@@ -156,7 +156,7 @@
     "datoc": "centros"
   },
   {
-    "fecha": "2026-06-21",
+    "fecha": "2026-09-21",
     "valor": "1,920",
     "fuente": "SESAL Honduras - Infraestructura Hospitalaria 2026",
     "enlace": "https://www.salud.gob.hn/",
@@ -168,7 +168,7 @@
     "datoc": "camas"
   },
   {
-    "fecha": "2026-06-22",
+    "fecha": "2026-09-22",
     "valor": "64.5",
     "fuente": "INE Honduras - Pobreza 2026",
     "enlace": "https://www.ine.gob.hn/",
