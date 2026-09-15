@@ -5,12 +5,25 @@
     {
       "id": "cisterna-agua",
       "name": "Alex Asar",
-      "category": "Agua",
+      "category": "Limpieza Cisterna",
       "description": "Venta de agua potable",
       "phone": "+504 3192-7952",
       "whatsapp": "5043192-7952",
       "price": "No determinado",
+      "keywords": ["agua", "cisterna", "potable", "venta", "no hay agua", "falta de agua", "venta de agua", "agua potable","carro cisterna"],
+[
+    {
+      "id": "cisterna-agua",
+      "name": "Alex Asar",
+      "category": "Agua",
+      "description": "Venta de agua potable",
+      "phone": "+504 9947-1009",
+      "whatsapp": "5043192-7952",
+      "price": "No determinado",
       "keywords": ["agua", "cisterna", "potable", "venta", "no hay agua", "falta de agua", "venta de agua", "agua potable","carro cisterna"]
-    }
+    },
+
+
   ]
+
 }
