@@ -3,44 +3,14 @@
   "updated_at": "2026-09-15T00:00:00Z",
   "services": [
     {
-      "id": "fontaneria-carlos",
-      "name": "Carlos Martínez",
-      "category": "Fontanería",
-      "description": "Reparación de fugas, tuberías, grifos, sanitarios e instalación de bombas de agua.",
-      "phone": "+504 9999-1234",
-      "whatsapp": "50499991234",
-      "price": "Desde L 350 por visita",
-      "keywords": ["fontanero", "plomero", "fuga", "agua", "tubería", "grifo", "inodoro", "bomba"]
-    },
-    {
-      "id": "electricidad-luis",
-      "name": "Luis Hernández",
-      "category": "Electricidad",
-      "description": "Revisión de fallas eléctricas, instalación de lámparas, tomacorrientes y cableado residencial.",
-      "phone": "+504 9888-4567",
-      "whatsapp": "50498884567",
-      "price": "Desde L 400 según diagnóstico",
-      "keywords": ["electricista", "eléctrico", "corriente", "lámpara", "enchufe", "tomacorriente", "cable"]
-    },
-    {
-      "id": "jardineria-verde",
-      "name": "Jardines El Roble",
-      "category": "Jardinería",
-      "description": "Corte de grama, poda de árboles pequeños, mantenimiento de plantas y limpieza de jardín.",
-      "phone": "+504 9777-8901",
-      "whatsapp": "50497778901",
-      "price": "Desde L 500 por mantenimiento",
-      "keywords": ["jardinero", "jardín", "grama", "zacate", "poda", "plantas", "patio"]
-    },
-    {
-      "id": "limpieza-maria",
-      "name": "María López",
-      "category": "Limpieza",
-      "description": "Limpieza general y profunda de casas, cocinas, baños y áreas comunes.",
-      "phone": "+504 9666-2345",
-      "whatsapp": "50496662345",
-      "price": "Desde L 700 por jornada",
-      "keywords": ["limpieza", "limpiar", "aseo", "casa", "baño", "cocina", "hogar"]
+      "id": "cisterna-agua",
+      "name": "Alex Asar",
+      "category": "Agua",
+      "description": "Venta de agua potable",
+      "phone": "+504 3192-7952",
+      "whatsapp": "5043192-7952",
+      "price": "No determinado",
+      "keywords": ["agua", "cisterna", "potable", "venta", "no hay agua", "falta de agua", "venta de agua", "agua potable","carro cisterna"]
     }
   ]
 }
