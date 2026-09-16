@@ -5,10 +5,10 @@
     {
       "id": "cisterna-agua",
       "name": "Alex Asar",
-      "category": "Limpieza Cisterna",
+      "category": "Venta de Agua Potable",
       "description": "Venta de agua potable",
       "phone": "+504 3192-7952",
-      "whatsapp": "5043192-7952",
+      "whatsapp": "50431927952",
       "price": "No determinado",
       "keywords": [
         "agua",
@@ -23,24 +23,43 @@
       ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "2",
+      "name": "José Umanzor",
+      "category": "Venta de Agua Potable",
+      "description": "venta de agua potable",
+      "phone": "+504 9450-9199",
+      "whatsapp": "50494509199",
+      "price": "No determinado",
+      "keywords": [
+        "agua",
+        "cisterna",
+        "potable",
+        "venta",
+        "no hay agua",
+        "falta de agua",
+        "venta de agua",
+        "agua potable",
+        "carro cisterna"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "3",
+      "name": "Comercial Diego",
+      "category": "Fontaneria",
+      "description": "fontaneria en general",
+      "phone": "+504 9394-2326",
+      "whatsapp": "50493942326",
+      "price": "No determinado",
+      "keywords": [
+        "Fontaneria",
+        "Plomero",
+        "Plomeria",
+        "Tuberia",
+        "Reparacion Tuberias",
+        "Caños",
+        "Destapa caños",
+        "Destapa tuberias"
+      ]
     },
     {
       "id": "",
