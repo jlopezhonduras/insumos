@@ -62,14 +62,22 @@
       ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "4",
+      "name": "SISE",
+      "category": "Seguridad",
+      "description": "Instalación de cámaras de seguridad, alarmas, cercas eléctricas, mantenimiento",
+      "phone": "504 9263-8996",
+      "whatsapp": "50492638996",
+      "price": "No determinado",
+      "keywords": [
+		"Seguridad",
+		"Camaras",
+		"Alarmas",
+		"Cercas eléctricas",
+		"Electricidad",
+		"Mantenimiento electrico",
+		"Camaras de video"
+	  ]
     },
     {
       "id": "",
