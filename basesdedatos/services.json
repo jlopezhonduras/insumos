@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01T15:51:04.620Z",
+  "updated_at": "2026-10-01T15:55:53.995Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -98,14 +98,21 @@
       ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "atol",
+      "name": "Venta de Atol",
+      "category": "Comidas",
+      "description": "Venta de productos de maíz",
+      "phone": "+504 3348-6096",
+      "whatsapp": "50433486096",
+      "price": "No determinado",
+      "keywords": [
+        "atol",
+        "elote",
+        "tamalitos",
+        "fritas",
+        "maíz",
+        "maiz"
+      ]
     },
     {
       "id": "",
