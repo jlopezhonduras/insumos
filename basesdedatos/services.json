@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01T15:55:53.995Z",
+  "updated_at": "2026-10-01T16:08:49.069Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -115,14 +115,52 @@
       ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "limones",
+      "name": "Limones",
+      "category": "Comida",
+      "description": "Venta de limones, Bolsa grande 25 limones L. 50, Bolsa mediana 12 limones L. 25",
+      "phone": "+504 9852-7658",
+      "whatsapp": "50498527658",
+      "price": "L.25 - L.50",
+      "keywords": [
+        "limones",
+        "limonada"
+      ]
+    },
+    {
+      "id": "style-place",
+      "name": "Style Place",
+      "category": "Barberia",
+      "description": "Barberia",
+      "phone": "+504 3282-6325",
+      "whatsapp": "50432826325",
+      "price": "No determinado",
+      "keywords": [
+        "barberia",
+        "pelo",
+        "corte",
+        "estilo",
+        "estilista"
+      ]
+    },
+    {
+      "id": "electricista-ludwin",
+      "name": "Ludwin",
+      "category": "Electrico",
+      "description": "Electricista",
+      "phone": "+504 8893-8624",
+      "whatsapp": "50488938624",
+      "price": "No determinado",
+      "keywords": [
+        "electrico",
+        "electricista",
+        "luz",
+        "energia",
+        "cortocirtuito",
+        "corto",
+        "luces",
+        "reparaciones electricas"
+      ]
     },
     {
       "id": "",
@@ -145,24 +183,56 @@
       "keywords": []
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "lila-olivo",
+      "name": "Lila y Olivo",
+      "category": "Comida",
+      "description": "Tablas gourmet",
+      "phone": "+504 9469-4419",
+      "whatsapp": "50494694419",
+      "price": "No determinado",
+      "keywords": [
+        "queso",
+        "aceitunas",
+        "jamones",
+        "tablas de entrada",
+        "pesto",
+        "brunch",
+        "snacks",
+        "barra gourmet",
+        "regalos corporativos"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "rincon-hermanas",
+      "name": "Rincon de las Hermanas",
+      "category": "Comida",
+      "description": "Venta de pollo chuco, chuleta con tajadas, pescado con tajadas",
+      "phone": "+504 8896-4272",
+      "whatsapp": "50488964272",
+      "price": "Variado",
+      "keywords": [
+        "pescado",
+        "pollo",
+        "chuco",
+        "chuleta",
+        "tajadas",
+        "refrescos"
+      ]
+    },
+    {
+      "id": "arandanos-fresas",
+      "name": "Arandanos y Fresas",
+      "category": "Comida",
+      "description": "Venta de fresas y arandanos",
+      "phone": "+504 9900-0001",
+      "whatsapp": "50499000001",
+      "price": "Variado",
+      "keywords": [
+        "arandanos",
+        "fresas",
+        "fruta",
+        "fresca"
+      ]
     }
   ]
 }
