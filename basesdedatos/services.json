@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T00:00:00Z",
+  "updated_at": "2026-10-01T15:49:43.387Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -70,24 +70,32 @@
       "whatsapp": "50492638996",
       "price": "No determinado",
       "keywords": [
-		"Seguridad",
-		"Camaras",
-		"Alarmas",
-		"Cercas eléctricas",
-		"Electricidad",
-		"Mantenimiento electrico",
-		"Camaras de video"
-	  ]
+        "Seguridad",
+        "Camaras",
+        "Alarmas",
+        "Cercas eléctricas",
+        "Electricidad",
+        "Mantenimiento electrico",
+        "Camaras de video"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "cadi-dental",
+      "name": "CADI",
+      "category": "Medicina",
+      "description": "Clínica Dental Odontológica",
+      "phone": "+504 3355-1965",
+      "whatsapp": "50433551965",
+      "price": "NA",
+      "keywords": [
+        "clinica",
+        "dental",
+        "odontologo",
+        "odontologia",
+        "dentista",
+        "dientes",
+        "boca"
+      ]
     },
     {
       "id": "",
