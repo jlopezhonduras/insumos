@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01T15:49:43.387Z",
+  "updated_at": "2026-10-01T15:51:04.620Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -86,7 +86,7 @@
       "description": "Clínica Dental Odontológica",
       "phone": "+504 3355-1965",
       "whatsapp": "50433551965",
-      "price": "NA",
+      "price": "No determinado",
       "keywords": [
         "clinica",
         "dental",
