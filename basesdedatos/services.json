@@ -163,14 +163,14 @@
       ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "reparacion-lavadoras",
+      "name": "Marlon",
+      "category": "Reparación Lavadoras",
+      "description": "Reparación de Lavadoras",
+      "phone": "+504 9970-2121",
+      "whatsapp": "+50499702121",
+      "price": "No determinado",
+      "keywords": ["lavadoras","reparacion","linea blanca","lavadora","limpieza"]
     },
     {
       "id": "",
