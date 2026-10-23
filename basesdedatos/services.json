@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01T16:08:49.069Z",
+  "updated_at": "2026-10-23T15:41:04.643Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -170,7 +170,13 @@
       "phone": "+504 9970-2121",
       "whatsapp": "+50499702121",
       "price": "No determinado",
-      "keywords": ["lavadoras","reparacion","linea blanca","lavadora","limpieza"]
+      "keywords": [
+        "lavadoras",
+        "reparacion",
+        "linea blanca",
+        "lavadora",
+        "limpieza"
+      ]
     },
     {
       "id": "",
@@ -232,6 +238,26 @@
         "fresas",
         "fruta",
         "fresca"
+      ]
+    },
+    {
+      "id": "aguapotable",
+      "name": "UMAPS",
+      "category": "Agua Potable",
+      "description": "Distribución de Agua Las Uvas Octubre 2026\n\nUvas Parte Baja - 24 de octubre 8am - 8pm\nUvas Lado Derecho - 23 de octubre 3pm - 12pm\nUvas Parte Alta (Servicio General) - 19 de octubre y 28 de octubre 8am - 8pm",
+      "phone": "+504 9398-7054",
+      "whatsapp": "50493987054",
+      "price": "Gratis",
+      "keywords": [
+        "agua",
+        "umaps",
+        "sanaa",
+        "cuando viene el agua",
+        "agua potable",
+        "horario",
+        "horario agua",
+        "distribucion agua",
+        "agua honduras"
       ]
     }
   ]
