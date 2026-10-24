@@ -259,6 +259,24 @@
         "distribucion agua",
         "agua honduras"
       ]
+    },
+    {
+      "id": "lavanderia01",
+      "name": "Lavanderia Girasoles",
+      "category": "Lavanderias",
+      "description": "Lavandería y planchado",
+      "phone": "+504 8917-6646",
+      "whatsapp": "50489176646",
+      "price": "No determinado",
+      "keywords": [
+        "lavanderia",
+        "dry clean",
+        "planchado",
+        "ropa",
+        "lavar ropa",
+        "planchar",
+        "lavado"
+      ]
     }
   ]
 }
