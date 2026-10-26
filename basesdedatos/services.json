@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T14:21:07.629Z",
+  "updated_at": "2026-10-26T14:22:02.357Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -297,6 +297,37 @@
         "lavar ropa",
         "planchar",
         "lavado"
+      ]
+    },
+    {
+      "id": "fontaneria-rudy",
+      "name": "Rudy Velasquez",
+      "category": "Fontanería",
+      "description": "Fontanería general",
+      "phone": "+504 9487-2078",
+      "whatsapp": "50494872078",
+      "price": "No Determinado",
+      "keywords": [
+        "Fontanería",
+        "Plomería",
+        "Servicios de fontanería",
+        "Reparación de tuberías",
+        "Instalación de tuberías",
+        "Reparación de fugas de agua",
+        "Detección de fugas",
+        "Destape de tuberías",
+        "Limpieza de desagües",
+        "Instalación de sanitarios",
+        "Reparación de inodoros",
+        "Instalación de lavamanos",
+        "Reparación de grifos",
+        "Mantenimiento de tuberías",
+        "Instalaciones hidráulicas",
+        "Sistemas de drenaje",
+        "Fontanero a domicilio",
+        "Plomero de emergencia",
+        "Reparación de cisternas",
+        "Instalación de bombas de agua"
       ]
     }
   ]
