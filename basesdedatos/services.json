@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T00:00:00Z",
+  "updated_at": "2026-10-26T14:22:35.613Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -70,84 +70,265 @@
       "whatsapp": "50492638996",
       "price": "No determinado",
       "keywords": [
-		"Seguridad",
-		"Camaras",
-		"Alarmas",
-		"Cercas eléctricas",
-		"Electricidad",
-		"Mantenimiento electrico",
-		"Camaras de video"
-	  ]
+        "Seguridad",
+        "Camaras",
+        "Alarmas",
+        "Cercas eléctricas",
+        "Electricidad",
+        "Mantenimiento electrico",
+        "Camaras de video"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "cadi-dental",
+      "name": "CADI",
+      "category": "Medicina",
+      "description": "Clínica Dental Odontológica",
+      "phone": "+504 3355-1965",
+      "whatsapp": "50433551965",
+      "price": "No determinado",
+      "keywords": [
+        "clinica",
+        "dental",
+        "odontologo",
+        "odontologia",
+        "dentista",
+        "dientes",
+        "boca"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "atol",
+      "name": "Venta de Atol",
+      "category": "Comidas",
+      "description": "Venta de productos de maíz",
+      "phone": "+504 3348-6096",
+      "whatsapp": "50433486096",
+      "price": "No determinado",
+      "keywords": [
+        "atol",
+        "elote",
+        "tamalitos",
+        "fritas",
+        "maíz",
+        "maiz"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "limones",
+      "name": "Limones",
+      "category": "Comida",
+      "description": "Venta de limones, Bolsa grande 25 limones L. 50, Bolsa mediana 12 limones L. 25",
+      "phone": "+504 9852-7658",
+      "whatsapp": "50498527658",
+      "price": "L.25 - L.50",
+      "keywords": [
+        "limones",
+        "limonada"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "style-place",
+      "name": "Style Place",
+      "category": "Barberia",
+      "description": "Barberia",
+      "phone": "+504 3282-6325",
+      "whatsapp": "50432826325",
+      "price": "No determinado",
+      "keywords": [
+        "barberia",
+        "pelo",
+        "corte",
+        "estilo",
+        "estilista"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "electricista-ludwin",
+      "name": "Ludwin",
+      "category": "Electrico",
+      "description": "Electricista",
+      "phone": "+504 8893-8624",
+      "whatsapp": "50488938624",
+      "price": "No determinado",
+      "keywords": [
+        "electrico",
+        "electricista",
+        "luz",
+        "energia",
+        "cortocirtuito",
+        "corto",
+        "luces",
+        "reparaciones electricas"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "reparacion-lavadoras",
+      "name": "Marlon",
+      "category": "Reparación Lavadoras",
+      "description": "Reparación de Lavadoras",
+      "phone": "+504 9970-2121",
+      "whatsapp": "+50499702121",
+      "price": "No determinado",
+      "keywords": [
+        "lavadoras",
+        "reparacion",
+        "linea blanca",
+        "lavadora",
+        "limpieza"
+      ]
     },
     {
-      "id": "",
-      "name": "",
-      "category": "",
-      "description": "",
-      "phone": "",
-      "whatsapp": "",
-      "price": "",
-      "keywords": []
+      "id": "fontaneria-carlos",
+      "name": "Carlos Hernandez",
+      "category": "Fontanería",
+      "description": "Fontanería general",
+      "phone": "+504 3393-4586",
+      "whatsapp": "50433934586",
+      "price": "No Determinado",
+      "keywords": [
+        "Fontanería",
+        "Plomería",
+        "Servicios de fontanería",
+        "Reparación de tuberías",
+        "Instalación de tuberías",
+        "Reparación de fugas de agua",
+        "Detección de fugas",
+        "Destape de tuberías",
+        "Limpieza de desagües",
+        "Instalación de sanitarios",
+        "Reparación de inodoros",
+        "Instalación de lavamanos",
+        "Reparación de grifos",
+        "Mantenimiento de tuberías",
+        "Instalaciones hidráulicas",
+        "Sistemas de drenaje",
+        "Fontanero a domicilio",
+        "Plomero de emergencia",
+        "Reparación de cisternas",
+        "Instalación de bombas de agua"
+      ]
+    },
+    {
+      "id": "lila-olivo",
+      "name": "Lila y Olivo",
+      "category": "Comida",
+      "description": "Tablas gourmet",
+      "phone": "+504 9469-4419",
+      "whatsapp": "50494694419",
+      "price": "No determinado",
+      "keywords": [
+        "queso",
+        "aceitunas",
+        "jamones",
+        "tablas de entrada",
+        "pesto",
+        "brunch",
+        "snacks",
+        "barra gourmet",
+        "regalos corporativos"
+      ]
+    },
+    {
+      "id": "rincon-hermanas",
+      "name": "Rincon de las Hermanas",
+      "category": "Comida",
+      "description": "Venta de pollo chuco, chuleta con tajadas, pescado con tajadas",
+      "phone": "+504 8896-4272",
+      "whatsapp": "50488964272",
+      "price": "Variado",
+      "keywords": [
+        "pescado",
+        "pollo",
+        "chuco",
+        "chuleta",
+        "tajadas",
+        "refrescos"
+      ]
+    },
+    {
+      "id": "arandanos-fresas",
+      "name": "Arandanos y Fresas",
+      "category": "Comida",
+      "description": "Venta de fresas y arandanos",
+      "phone": "+504 9900-0001",
+      "whatsapp": "50499000001",
+      "price": "Variado",
+      "keywords": [
+        "arandanos",
+        "fresas",
+        "fruta",
+        "fresca"
+      ]
+    },
+    {
+      "id": "aguapotable",
+      "name": "UMAPS",
+      "category": "Agua Potable",
+      "description": "Distribución de Agua Las Uvas Octubre 2026\n\nUvas Parte Baja - 24 de octubre 8am - 8pm\nUvas Lado Derecho - 23 de octubre 3pm - 12pm\nUvas Parte Alta (Servicio General) - 19 de octubre y 28 de octubre 8am - 8pm",
+      "phone": "+504 9398-7054",
+      "whatsapp": "50493987054",
+      "price": "Gratis",
+      "keywords": [
+        "agua",
+        "umaps",
+        "sanaa",
+        "cuando viene el agua",
+        "agua potable",
+        "horario",
+        "horario agua",
+        "distribucion agua",
+        "agua honduras"
+      ]
+    },
+    {
+      "id": "lavanderia01",
+      "name": "Lavanderia Girasoles",
+      "category": "Lavanderias",
+      "description": "Lavandería y planchado",
+      "phone": "+504 8917-6646",
+      "whatsapp": "50489176646",
+      "price": "No determinado",
+      "keywords": [
+        "lavanderia",
+        "dry clean",
+        "planchado",
+        "ropa",
+        "lavar ropa",
+        "planchar",
+        "lavado"
+      ]
+    },
+    {
+      "id": "fontaneria-rudy",
+      "name": "Rudy Velasquez",
+      "category": "Fontanería",
+      "description": "Fontanería general",
+      "phone": "+504 9487-2078",
+      "whatsapp": "50494872078",
+      "price": "No Determinado",
+      "keywords": [
+        "Fontanería",
+        "Plomería",
+        "Servicios de fontanería",
+        "Reparación de tuberías",
+        "Instalación de tuberías",
+        "Reparación de fugas de agua",
+        "Detección de fugas",
+        "Destape de tuberías",
+        "Limpieza de desagües",
+        "Instalación de sanitarios",
+        "Reparación de inodoros",
+        "Instalación de lavamanos",
+        "Reparación de grifos",
+        "Mantenimiento de tuberías",
+        "Instalaciones hidráulicas",
+        "Sistemas de drenaje",
+        "Fontanero a domicilio",
+        "Plomero de emergencia",
+        "Reparación de cisternas",
+        "Instalación de bombas de agua"
+      ]
     }
   ]
 }
