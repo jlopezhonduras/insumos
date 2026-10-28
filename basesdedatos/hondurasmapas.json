@@ -1,1 +1,780 @@
+{
+  "mapas": [
+    {
+      "id": "poblacion-total-departamentos-2025",
+      "titulo": "Poblaci�n total por departamento",
+      "descripcion": "Poblaci�n total proyectada para 2025.",
+      "nivel": "departamento",
+      "unidad": "habitantes",
+      "anio": 2025,
+      "fuente": "CEPAL/CELADE Redatam+SP",
+      "datos": [
+        {
+          "codigoGeometria": "01",
+          "nombre": "Atlantida",
+          "valor": 522996,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "02",
+          "nombre": "Colon",
+          "valor": 370601,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "03",
+          "nombre": "Comayagua",
+          "valor": 615197,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "04",
+          "nombre": "Copan",
+          "valor": 443126,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "05",
+          "nombre": "Cortes",
+          "valor": 1954736,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "06",
+          "nombre": "Choluteca",
+          "valor": 502226,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "07",
+          "nombre": "El Paraiso",
+          "valor": 533123,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "08",
+          "nombre": "Francisco Morazan",
+          "valor": 1797179,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "09",
+          "nombre": "Gracias A Dios",
+          "valor": 114359,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "10",
+          "nombre": "Intibuca",
+          "valor": 288606,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "11",
+          "nombre": "Islas De La Bahia",
+          "valor": 84266,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "12",
+          "nombre": "La Paz",
+          "valor": 243014,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "13",
+          "nombre": "Lempira",
+          "valor": 394989,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "14",
+          "nombre": "Ocotepeque",
+          "valor": 180090,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "15",
+          "nombre": "Olancho",
+          "valor": 618658,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "16",
+          "nombre": "Santa Barbara",
+          "valor": 503869,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "17",
+          "nombre": "Valle",
+          "valor": 200886,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "18",
+          "nombre": "Yoro",
+          "valor": 671941,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Total"
+        }
+      ]
+    },
+    {
+      "id": "poblacion-urbana-departamentos-2025",
+      "titulo": "Poblaci�n urbana por departamento",
+      "descripcion": "Poblaci�n urbana proyectada para 2025.",
+      "nivel": "departamento",
+      "unidad": "habitantes",
+      "anio": 2025,
+      "fuente": "CEPAL/CELADE Redatam+SP",
+      "datos": [
+        {
+          "codigoGeometria": "01",
+          "nombre": "Atlantida",
+          "valor": 355523,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "02",
+          "nombre": "Colon",
+          "valor": 190064,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "03",
+          "nombre": "Comayagua",
+          "valor": 313432,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "04",
+          "nombre": "Copan",
+          "valor": 182443,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "05",
+          "nombre": "Cortes",
+          "valor": 1636094,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "06",
+          "nombre": "Choluteca",
+          "valor": 203611,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "07",
+          "nombre": "El Paraiso",
+          "valor": 169465,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "08",
+          "nombre": "Francisco Morazan",
+          "valor": 1385211,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "09",
+          "nombre": "Gracias A Dios",
+          "valor": 45928,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "10",
+          "nombre": "Intibuca",
+          "valor": 66015,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "11",
+          "nombre": "Islas De La Bahia",
+          "valor": 44205,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "12",
+          "nombre": "La Paz",
+          "valor": 71753,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "13",
+          "nombre": "Lempira",
+          "valor": 44712,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "14",
+          "nombre": "Ocotepeque",
+          "valor": 54830,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "15",
+          "nombre": "Olancho",
+          "valor": 230487,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "16",
+          "nombre": "Santa Barbara",
+          "valor": 178180,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "17",
+          "nombre": "Valle",
+          "valor": 80598,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        },
+        {
+          "codigoGeometria": "18",
+          "nombre": "Yoro",
+          "valor": 365919,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Urbano"
+        }
+      ]
+    },
+    {
+      "id": "poblacion-rural-departamentos-2025",
+      "titulo": "Poblaci�n rural por departamento",
+      "descripcion": "Poblaci�n rural proyectada para 2025.",
+      "nivel": "departamento",
+      "unidad": "habitantes",
+      "anio": 2025,
+      "fuente": "CEPAL/CELADE Redatam+SP",
+      "datos": [
+        {
+          "codigoGeometria": "01",
+          "nombre": "Atlantida",
+          "valor": 167473,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "02",
+          "nombre": "Colon",
+          "valor": 180537,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "03",
+          "nombre": "Comayagua",
+          "valor": 301765,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "04",
+          "nombre": "Copan",
+          "valor": 260683,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "05",
+          "nombre": "Cortes",
+          "valor": 318642,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "06",
+          "nombre": "Choluteca",
+          "valor": 298615,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "07",
+          "nombre": "El Paraiso",
+          "valor": 363658,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "08",
+          "nombre": "Francisco Morazan",
+          "valor": 411968,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "09",
+          "nombre": "Gracias A Dios",
+          "valor": 68431,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "10",
+          "nombre": "Intibuca",
+          "valor": 222591,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "11",
+          "nombre": "Islas De La Bahia",
+          "valor": 40061,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "12",
+          "nombre": "La Paz",
+          "valor": 171261,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "13",
+          "nombre": "Lempira",
+          "valor": 350277,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "14",
+          "nombre": "Ocotepeque",
+          "valor": 125260,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "15",
+          "nombre": "Olancho",
+          "valor": 388171,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "16",
+          "nombre": "Santa Barbara",
+          "valor": 325689,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "17",
+          "nombre": "Valle",
+          "valor": 120288,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        },
+        {
+          "codigoGeometria": "18",
+          "nombre": "Yoro",
+          "valor": 306022,
+          "anio": 2025,
+          "sexo": "Total",
+          "area": "Rural"
+        }
+      ]
+    },
+    {
+      "id": "poblacion-hombres-departamentos-2025",
+      "titulo": "Poblaci�n de hombres por departamento",
+      "descripcion": "Poblaci�n masculina proyectada para 2025.",
+      "nivel": "departamento",
+      "unidad": "habitantes",
+      "anio": 2025,
+      "fuente": "CEPAL/CELADE Redatam+SP",
+      "datos": [
+        {
+          "codigoGeometria": "01",
+          "nombre": "Atlantida",
+          "valor": 252372,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "02",
+          "nombre": "Colon",
+          "valor": 181492,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "03",
+          "nombre": "Comayagua",
+          "valor": 297784,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "04",
+          "nombre": "Copan",
+          "valor": 218071,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "05",
+          "nombre": "Cortes",
+          "valor": 935238,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "06",
+          "nombre": "Choluteca",
+          "valor": 248135,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "07",
+          "nombre": "El Paraiso",
+          "valor": 266093,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "08",
+          "nombre": "Francisco Morazan",
+          "valor": 855359,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "09",
+          "nombre": "Gracias A Dios",
+          "valor": 56022,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "10",
+          "nombre": "Intibuca",
+          "valor": 140114,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "11",
+          "nombre": "Islas De La Bahia",
+          "valor": 40739,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "12",
+          "nombre": "La Paz",
+          "valor": 118261,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "13",
+          "nombre": "Lempira",
+          "valor": 197119,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "14",
+          "nombre": "Ocotepeque",
+          "valor": 88917,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "15",
+          "nombre": "Olancho",
+          "valor": 305983,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "16",
+          "nombre": "Santa Barbara",
+          "valor": 254401,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "17",
+          "nombre": "Valle",
+          "valor": 98196,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "18",
+          "nombre": "Yoro",
+          "valor": 327870,
+          "anio": 2025,
+          "sexo": "Hombres",
+          "area": "Total"
+        }
+      ]
+    },
+    {
+      "id": "poblacion-mujeres-departamentos-2025",
+      "titulo": "Poblaci�n de mujeres por departamento",
+      "descripcion": "Poblaci�n femenina proyectada para 2025.",
+      "nivel": "departamento",
+      "unidad": "habitantes",
+      "anio": 2025,
+      "fuente": "CEPAL/CELADE Redatam+SP",
+      "datos": [
+        {
+          "codigoGeometria": "01",
+          "nombre": "Atlantida",
+          "valor": 270624,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "02",
+          "nombre": "Colon",
+          "valor": 189109,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "03",
+          "nombre": "Comayagua",
+          "valor": 317413,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "04",
+          "nombre": "Copan",
+          "valor": 225055,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "05",
+          "nombre": "Cortes",
+          "valor": 1019498,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "06",
+          "nombre": "Choluteca",
+          "valor": 254091,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "07",
+          "nombre": "El Paraiso",
+          "valor": 267030,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "08",
+          "nombre": "Francisco Morazan",
+          "valor": 941820,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "09",
+          "nombre": "Gracias A Dios",
+          "valor": 58337,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "10",
+          "nombre": "Intibuca",
+          "valor": 148492,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "11",
+          "nombre": "Islas De La Bahia",
+          "valor": 43527,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "12",
+          "nombre": "La Paz",
+          "valor": 124753,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "13",
+          "nombre": "Lempira",
+          "valor": 197870,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "14",
+          "nombre": "Ocotepeque",
+          "valor": 91173,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "15",
+          "nombre": "Olancho",
+          "valor": 312675,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "16",
+          "nombre": "Santa Barbara",
+          "valor": 249468,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "17",
+          "nombre": "Valle",
+          "valor": 102690,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        },
+        {
+          "codigoGeometria": "18",
+          "nombre": "Yoro",
+          "valor": 344071,
+          "anio": 2025,
+          "sexo": "Mujeres",
+          "area": "Total"
+        }
+      ]
+    }
+  ]
+}
 
