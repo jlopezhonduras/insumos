@@ -2,9 +2,9 @@
   "catalogos": [
     {
       "id": "departamentos",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/jlopezhonduras/insumos/main/basesdedatos/mapas_calculables.json",
-      "sha256": "0b4401c17f85753400b10852751f91875960fc52a70daf872af25ea1be50acd7"
+      "sha256": "5c487e630f7ff58ded699da6aebbf7fb349877641fe2ddbb690b656d87894a57"
     },
     {
       "id": "municipios",
