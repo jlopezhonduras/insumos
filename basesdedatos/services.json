@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T14:22:35.613Z",
+  "updated_at": "2026-10-30T16:40:13.390Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -328,6 +328,100 @@
         "Plomero de emergencia",
         "Reparación de cisternas",
         "Instalación de bombas de agua"
+      ]
+    },
+    {
+      "id": "publicidad-carteles",
+      "name": "Genera Publicidad",
+      "category": "Publicidad",
+      "description": "Venta de banners , stickers, y demas",
+      "phone": "+504 3273-0251",
+      "whatsapp": "50432730251",
+      "price": "No Determinado",
+      "keywords": [
+        "banners",
+        "impresiones",
+        "stickers",
+        "vinilos",
+        "troquelados",
+        "microperforado"
+      ]
+    },
+    {
+      "id": "antipastos",
+      "name": "Picoteo",
+      "category": "Comidas",
+      "description": "Venta de:\n🍇 Antipasto dulce: una combinación de berenjena, uvas, manzana y aceitunas, con un sabor ligeramente dulce y un toque especial.\n\n🥦 Antipasto de vegetales: una mezcla de verduras como coliflor, pataste, berenjena, chile dulce, aceitunas y alcaparras, con un sabor más tradicional y salado.",
+      "phone": "+504 3220-9255",
+      "whatsapp": "50432209255",
+      "price": "No Determinado",
+      "keywords": [
+        "Picoteo",
+        "PicoteoHN",
+        "AntipastosArtesanales",
+        "Antipastos",
+        "AntipastoDulce",
+        "AntipastoDeVegetales",
+        "EmprendimientoHondureño",
+        "HechoEnHonduras",
+        "SaborArtesanal",
+        "DeliciasArtesanales",
+        "ComidaArtesanal",
+        "GastronomiaHondureña",
+        "SaboresUnicos",
+        "Aperitivos",
+        "EntradasDeliciosas",
+        "PicoteoEnCasa",
+        "AmantesDeLaComida",
+        "FoodieHN",
+        "EmprendedoresHN",
+        "ApoyaLoLocal",
+        "ProductosArtesanales",
+        "ComidaGourmet",
+        "SaboresQueEnamoran",
+        "Tegucigalpa",
+        "Honduras"
+      ]
+    },
+    {
+      "id": "lamparas",
+      "name": "Texiguataccesories",
+      "category": "Lamparas",
+      "description": "Texiguataccesories, empresa dedicada a la Fabricación de Pantallas para Lámpara, eligues el color, el tamaño y las formas, puedes contactarnos barra vez de nuestras redes Sociales de Facebook como Texiguataccesories y en Instagram como Texiguataccesorieshn. Producto 100% Hondureño.",
+      "phone": "+504 9780-7272",
+      "whatsapp": "50497807272",
+      "price": "No Determinado",
+      "keywords": [
+        "Texiguataccesories",
+        "TexiguataccesoriesHN",
+        "PantallasParaLamparas",
+        "PantallasDecorativas",
+        "FabricacionDePantallas",
+        "PantallasArtesanales",
+        "LamparasDecorativas",
+        "IluminacionDecorativa",
+        "IluminacionParaHogar",
+        "DecoracionDeInteriores",
+        "DecoracionDelHogar",
+        "AccesoriosParaLamparas",
+        "LamparasPersonalizadas",
+        "PantallasPersonalizadas",
+        "DiseñosPersonalizados",
+        "DecoracionArtesanal",
+        "IluminacionPersonalizada",
+        "DiseñoDeInteriores",
+        "ArtesaniaHondureña",
+        "HechoEnHonduras",
+        "ProductoHondureño",
+        "EmprendimientoHondureño",
+        "EmprendedoresHN",
+        "ApoyaLoLocal",
+        "DecoracionModerna",
+        "DecoracionElegante",
+        "ArteYDecoracion",
+        "HogarYDecoracion",
+        "Tegucigalpa",
+        "Honduras"
       ]
     }
   ]
