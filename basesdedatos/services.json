@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T16:40:13.390Z",
+  "updated_at": "2026-11-02T15:29:01.196Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -422,6 +422,37 @@
         "HogarYDecoracion",
         "Tegucigalpa",
         "Honduras"
+      ]
+    },
+    {
+      "id": "carpinteria-elder",
+      "name": "Elder",
+      "category": "Carpinteria",
+      "description": "Servicios de carpintería",
+      "phone": "+504 9862-0488",
+      "whatsapp": "5049860488",
+      "price": "No Determinado",
+      "keywords": [
+        "Carpintería",
+        "Servicios de Carpintería",
+        "Carpinteros Profesionales",
+        "Carpintería a Medida",
+        "Muebles de Madera",
+        "Fabricación de Muebles",
+        "Reparación de Muebles",
+        "Restauración de Muebles",
+        "Puertas de Madera",
+        "Closets a Medida",
+        "Cocinas Integrales",
+        "Gabinetes de Cocina",
+        "Muebles Personalizados",
+        "Trabajos en Madera",
+        "Instalación de Puertas",
+        "Muebles para Oficina",
+        "Diseño de Muebles",
+        "Carpintería Residencial",
+        "Remodelaciones en Madera",
+        "Ebanistería"
       ]
     }
   ]
