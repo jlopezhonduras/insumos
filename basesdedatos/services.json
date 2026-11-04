@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T15:29:01.196Z",
+  "updated_at": "2026-11-02T19:18:55.159Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -265,7 +265,7 @@
       "id": "umaps",
       "name": "UMAPS",
       "category": "Agua Potable",
-      "description": "Distribución de Agua Las Uvas Octubre 2026\n\nUvas Parte Baja - 24 de octubre 8am - 8pm\nUvas Lado Derecho - 23 de octubre 3pm - 12pm\nUvas Parte Alta (Servicio General) - 19 de octubre y 28 de octubre 8am - 8pm",
+      "description": "Distribución de Agua Las Uvas Octubre 2026\n\nUvas Parte Baja - 10, 19, 28 de noviembre 3:00pm - 12:00am,\nUvas Lado Derecho - 6, 15, 24 de noviembre 8:00am - 8:00 am\nUvas Parte Alta (Servicio General) - 6, 12, 21 de noviembre (No aparece horario)",
       "phone": "+504 9398-7054",
       "whatsapp": "50493987054",
       "price": "Gratis",
