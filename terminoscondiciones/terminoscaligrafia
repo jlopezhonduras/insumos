@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Política de privacidad de Caligrafía 1105.">
+  <title>Política de privacidad | Caligrafía 1105</title>
+  <style>
+    :root { color-scheme: light; }
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 24px; background: #f8f6ef; color: #30365c; font: 16px/1.65 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    main { max-width: 800px; margin: 0 auto; padding: clamp(24px, 5vw, 48px); border-radius: 22px; background: #fff; box-shadow: 0 10px 28px rgba(48, 54, 92, .08); }
+    h1, h2 { line-height: 1.25; color: #30365c; }
+    h1 { margin: 0 0 8px; font-size: clamp(28px, 5vw, 40px); }
+    h2 { margin-top: 34px; font-size: 20px; }
+    p, li { max-width: 72ch; }
+    a { color: #514cbd; }
+    .meta { margin: 0; color: #71768f; }
+    .notice { margin: 22px 0; padding: 16px 18px; border-radius: 14px; background: #f2f4ff; }
+    footer { margin-top: 38px; padding-top: 18px; border-top: 1px solid #e7e7f0; color: #71768f; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Política de privacidad</h1>
+    <p class="meta">Caligrafía 1105 · Identificador de aplicación: <code>com.sisdehon.caligrafia1105</code></p>
+    <p class="meta">Última actualización: 9 de noviembre de 2026</p>
+
+    <section class="notice" aria-label="Resumen">
+      <strong>Resumen.</strong> La versión actual de Caligrafía 1105 funciona sin cuenta, sin anuncios y sin enviar los trazos, palabras ni estadísticas al desarrollador. La información de práctica se procesa en el dispositivo.
+    </section>
+
+    <h2>1. Responsable y contacto</h2>
+    <p>SISDEHON 1105 desarrolla Caligrafía 1105. Para consultas sobre privacidad o el tratamiento de datos, escribe a <a href="mailto:jorge.lopezhn@gmail.com">jorge.lopezhn@gmail.com</a>.</p>
+
+    <h2>2. Alcance de esta política</h2>
+    <p>Esta política explica cómo trata la información la versión actual de Caligrafía 1105. Aplica a la aplicación móvil identificada como <code>com.sisdehon.caligrafia1105</code> y a esta página.</p>
+
+    <h2>3. Información que se usa en el dispositivo</h2>
+    <p>Para mostrar ejercicios y dar una orientación de caligrafía, la aplicación procesa localmente las letras, palabras personalizadas y trazos que el usuario introduce. Una palabra personalizada puede contener información personal si el usuario la escribe; recomendamos no introducir nombres completos, direcciones ni otros datos personales.</p>
+    <p>La aplicación también guarda en el dispositivo contadores de práctica y comprobación por día (letras, palabras y resultados que necesitan mejorar) para mostrar las estadísticas diaria, semanal, mensual y anual. Estos contadores no incluyen el contenido de los trazos ni de las palabras.</p>
+
+    <h2>4. Recopilación, uso compartido y transmisión</h2>
+    <p>La versión actual no crea cuentas, no solicita inicio de sesión y no transmite al desarrollador las palabras personalizadas, los trazos ni las estadísticas. No utiliza herramientas de analítica, publicidad ni otros servicios de terceros para recopilar datos. No vendemos ni compartimos datos personales.</p>
+    <p>La aplicación actual no solicita permisos de cámara, micrófono, ubicación, contactos, archivos ni internet. El sistema operativo Android y el teclado que el usuario elija pueden tratar lo que se escribe según sus propias políticas.</p>
+
+    <h2>5. Almacenamiento, conservación y eliminación</h2>
+    <p>Los trazos se mantienen en memoria durante el ejercicio y pueden borrarse con el botón <em>Borrar</em>. Android puede conservar temporalmente el estado de una pantalla para restaurarla.</p>
+    <p>Los contadores de estadísticas se conservan únicamente en el almacenamiento local de la aplicación para poder mostrar el progreso histórico. Puedes eliminarlos, junto con los demás datos locales de la app, desde <em>Ajustes de Android &gt; Aplicaciones &gt; Caligrafía 1105 &gt; Almacenamiento &gt; Borrar datos</em>, o al desinstalar la aplicación. Como no recibimos estos datos en servidores, no hay una copia remota que solicitar eliminar.</p>
+
+    <h2>6. Seguridad</h2>
+    <p>La información local se mantiene dentro del almacenamiento privado de la aplicación que proporciona Android. Aunque aplicamos medidas razonables acordes con el funcionamiento sin conexión de la app, ningún método de almacenamiento electrónico es completamente infalible.</p>
+
+    <h2>7. Niños y familias</h2>
+    <p>Caligrafía 1105 es una herramienta educativa de caligrafía y puede ser utilizada por niños con la orientación de una persona adulta. No solicita deliberadamente información personal de menores ni permite crear perfiles o cuentas. Si consideras que un menor ha introducido información personal en una palabra personalizada, bórrala de la aplicación y, si necesitas ayuda, contáctanos en el correo indicado.</p>
+
+    <h2>8. Publicidad en versiones futuras</h2>
+    <p>La versión actual no muestra anuncios. Es posible que una versión futura incorpore publicidad. Antes de habilitar anuncios, actualizaremos esta política y la sección Seguridad de los datos de Google Play para identificar el proveedor publicitario, las categorías de datos que dicho proveedor pueda tratar, las finalidades y los terceros con quienes puedan compartirse.</p>
+    <p>Dependiendo del proveedor y de la configuración elegida, un servicio publicitario puede tratar identificadores publicitarios, dirección IP, información técnica del dispositivo, datos de interacción con anuncios u otros datos necesarios para mostrar, medir o limitar anuncios. Si se usan anuncios personalizados o si la normativa aplicable exige consentimiento, mostraremos el aviso y solicitaremos las opciones de consentimiento correspondientes antes de ese tratamiento. Para una app dirigida a niños, configuraremos el servicio publicitario y sus solicitudes de anuncios conforme a las reglas aplicables para público infantil.</p>
+    <p>Cuando se integre un proveedor concreto, esta política se actualizará <strong>antes</strong> de publicar esa versión. Google exige que las aplicaciones con publicidad declaren que contienen anuncios y que las políticas de privacidad describan la recopilación, el uso y el intercambio de datos derivados de los servicios publicitarios.</p>
+
+    <h2>9. Cambios a esta política</h2>
+    <p>Podemos actualizar esta política si cambia el funcionamiento de la aplicación, especialmente antes de incorporar publicidad, servicios de terceros o nuevas formas de tratar datos. Indicaremos la fecha de la última actualización en esta página.</p>
+
+    <h2>10. Contacto</h2>
+    <p>Para preguntas, solicitudes o comentarios sobre privacidad, escribe a <a href="mailto:jorge.lopezhn@gmail.com">jorge.lopezhn@gmail.com</a>.</p>
+
+    <footer>© 2026 SISDEHON 1105 · Caligrafía 1105</footer>
+  </main>
+</body>
+</html>
