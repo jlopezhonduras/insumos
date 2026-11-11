@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T16:24:57.021Z",
+  "updated_at": "2026-11-11T16:27:45.188Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -474,6 +474,37 @@
         "Reparación de mallas dañadas",
         "Servicios en Tegucigalpa",
         "Mallas protectoras"
+      ]
+    },
+    {
+      "id": "cisternas",
+      "name": "Mario Carvajal",
+      "category": "Reparaciones",
+      "description": "Reparación de bombas de agua, cisternas",
+      "phone": "+504 9961-8255",
+      "whatsapp": "50499618255",
+      "price": "No Determinado",
+      "keywords": [
+        "Reparación de bombas de agua",
+        "Mantenimiento de bombas de agua",
+        "Instalación de bombas de agua",
+        "Reparación de cisternas",
+        "Limpieza de cisternas",
+        "Mantenimiento de cisternas",
+        "Instalación de sistemas hidroneumáticos",
+        "Reparación de sistemas hidroneumáticos",
+        "Reparación de motores de agua",
+        "Instalación de tanques de agua",
+        "Reparación de tuberías",
+        "Detección de fugas de agua",
+        "Instalación de sistemas de bombeo",
+        "Reparación de bombas sumergibles",
+        "Mantenimiento de tanques elevados",
+        "Reparación de presurizadores de agua",
+        "Instalación de flotadores automáticos",
+        "Reparación de sistemas de presión de agua",
+        "Servicios de fontanería",
+        "Reparación de sistemas de abastecimiento de agua"
       ]
     }
   ]
