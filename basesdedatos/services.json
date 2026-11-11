@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T19:18:55.159Z",
+  "updated_at": "2026-11-11T16:24:57.021Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -443,6 +443,37 @@
         "Carpintería Residencial",
         "Remodelaciones en Madera",
         "Ebanistería"
+      ]
+    },
+    {
+      "id": "telas-metalicas",
+      "name": "Telas Metálicas",
+      "category": "Reparaciones",
+      "description": "Reparación de Telas Metálicas",
+      "phone": "+504 8893-1023",
+      "whatsapp": "50488931023",
+      "price": "No Determinado",
+      "keywords": [
+        "Reparación de telas metálicas",
+        "Reparación de mosquiteros",
+        "Mallas metálicas",
+        "Reparación de marcos",
+        "Telas metálicas para ventanas",
+        "Servicio a domicilio",
+        "Reparación de ventanas",
+        "Instalación de mosquiteros",
+        "Mantenimiento de mallas",
+        "Protección contra insectos",
+        "Reparación de cedazos",
+        "Mosquiteros para puertas",
+        "Mallas para ventanas",
+        "Reparaciones del hogar",
+        "Servicios de mantenimiento",
+        "Cambio de telas metálicas",
+        "Marcos de aluminio",
+        "Reparación de mallas dañadas",
+        "Servicios en Tegucigalpa",
+        "Mallas protectoras"
       ]
     }
   ]
