@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T16:27:45.188Z",
+  "updated_at": "2026-11-11T19:25:39.504Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -505,6 +505,37 @@
         "Reparación de sistemas de presión de agua",
         "Servicios de fontanería",
         "Reparación de sistemas de abastecimiento de agua"
+      ]
+    },
+    {
+      "id": "inidcador-agua",
+      "name": "Carlos Torres",
+      "category": "Agua Potable",
+      "description": "Venta de Inicadores de Nivel de Agua",
+      "phone": "+504 3332-0497",
+      "whatsapp": "50433320497",
+      "price": "No Determinado",
+      "keywords": [
+        "Indicador de nivel de agua",
+        "Sensor de nivel de agua",
+        "Medidor de agua para cisternas",
+        "Sistema de monitoreo de cisternas",
+        "Indicador LED de nivel de agua",
+        "Control de nivel de cisterna",
+        "Instalación de sensores de agua",
+        "Medidor de nivel de tanque",
+        "Monitoreo de tanques de agua",
+        "Sistema indicador de agua",
+        "Control de almacenamiento de agua",
+        "Sensores para cisternas",
+        "Instalación de indicadores LED",
+        "Medición de nivel de agua",
+        "Accesorios para cisternas",
+        "Tecnología para cisternas",
+        "Sistemas de control de agua",
+        "Indicador de tanque lleno",
+        "Instalación de medidores de agua",
+        "Sistemas de monitoreo de agua"
       ]
     }
   ]
