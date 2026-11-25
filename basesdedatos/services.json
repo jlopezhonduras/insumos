@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T19:25:39.504Z",
+  "updated_at": "2026-11-25T13:18:57.475Z",
   "services": [
     {
       "id": "cisterna-agua",
@@ -536,6 +536,37 @@
         "Indicador de tanque lleno",
         "Instalación de medidores de agua",
         "Sistemas de monitoreo de agua"
+      ]
+    },
+    {
+      "id": "sastreria",
+      "name": "Ramiro Alvarenga",
+      "category": "Ropa",
+      "description": "Sastrería",
+      "phone": "+504 9614-1020",
+      "whatsapp": "50496141020",
+      "price": "No Determinado",
+      "keywords": [
+        "Sastrería",
+        "arreglos de ropa",
+        "confección a medida",
+        "reparación de prendas",
+        "ajustes de ropa",
+        "trajes a medida",
+        "costura profesional",
+        "modificación de prendas",
+        "ruedos de pantalones",
+        "cambio de cremalleras",
+        "reparación de uniformes",
+        "ajustes de vestidos",
+        "confección de pantalones",
+        "arreglos de camisas",
+        "ropa personalizada",
+        "reparación de sacos",
+        "ajustes de cintura",
+        "costura y confección",
+        "reparación de pantalones",
+        "servicio de sastre"
       ]
     }
   ]
